@@ -27,4 +27,7 @@ return [
     '@hotwired/turbo' => [
         'url' => 'https://cdn.jsdelivr.net/npm/@hotwired/turbo@7.3.0/+esm',
     ],
+    'tom-select' => [
+        'url' => 'https://cdn.jsdelivr.net/npm/tom-select@2.3.1/+esm',
+    ],
 ];
